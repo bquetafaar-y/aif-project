@@ -1,0 +1,601 @@
+﻿applicant_id,nmt_average_score,intended_specialty,funding_preference,distance_to_lviv_km,tuition_affordability,reputation_importance_1_5,lviv_study_preference,chose_lnu
+SYN0001,171.2,Computer Science,Contract acceptable,68.8,Low,2,No strong preference,1
+SYN0002,179.3,Economics,Contract acceptable,105.5,Low,1,Strongly prefers Lviv,1
+SYN0003,168.2,International Relations,Contract acceptable,162.5,High,4,Strongly prefers Lviv,1
+SYN0004,142.3,Computer Science,Budget only,174.5,Medium,3,Strongly prefers Lviv,1
+SYN0005,181.1,Economics,Budget only,95.0,Medium,3,No strong preference,1
+SYN0006,123.5,Mathematics,Contract acceptable,31.2,Medium,1,No strong preference,0
+SYN0007,170.3,Biology,Contract acceptable,48.1,Low,1,No strong preference,1
+SYN0008,143.2,Economics,Budget only,216.6,Medium,3,Prefers Lviv,0
+SYN0009,149.2,Biology,Budget preferred,52.4,Medium,1,No strong preference,0
+SYN0010,162.7,International Relations,Budget only,115.6,Medium,5,Strongly prefers Lviv,1
+SYN0011,187.4,Computer Science,Budget only,205.5,Medium,4,Prefers Lviv,1
+SYN0012,193.1,Biology,Budget only,163.9,Medium,4,Strongly prefers Lviv,1
+SYN0013,139.7,Psychology,Contract acceptable,146.1,High,4,Prefers Lviv,1
+SYN0014,199.8,Mathematics,Budget only,188.9,Low,2,No strong preference,1
+SYN0015,174.4,Economics,Budget preferred,95.4,Medium,5,Prefers Lviv,0
+SYN0016,188.9,Computer Science,Contract acceptable,180.2,High,5,Prefers Lviv,1
+SYN0017,147.2,Psychology,Budget preferred,39.5,Low,3,No strong preference,0
+SYN0018,160.6,Economics,Contract acceptable,74.6,High,5,No strong preference,1
+SYN0019,149.9,Law,Contract acceptable,238.4,High,1,No strong preference,0
+SYN0020,121.6,Biology,Budget preferred,59.9,Low,5,Strongly prefers Lviv,1
+SYN0021,158.9,Economics,Contract acceptable,191.5,Low,4,No strong preference,1
+SYN0022,162.2,Philology,Budget only,232.2,High,2,No strong preference,1
+SYN0023,199.6,Biology,Budget preferred,224.9,Medium,1,Strongly prefers Lviv,1
+SYN0024,147.0,International Relations,Contract acceptable,55.1,Low,1,Strongly prefers Lviv,1
+SYN0025,122.5,Biology,Budget only,128.5,Medium,4,Strongly prefers Lviv,0
+SYN0026,177.9,Mathematics,Budget only,196.2,Medium,2,Strongly prefers Lviv,1
+SYN0027,154.5,Philology,Budget preferred,116.8,High,1,No strong preference,0
+SYN0028,171.7,Computer Science,Budget preferred,182.1,Low,2,Strongly prefers Lviv,1
+SYN0029,155.9,Philology,Budget only,69.6,Low,1,Prefers Lviv,0
+SYN0030,188.5,Economics,Budget only,163.0,High,1,Strongly prefers Lviv,0
+SYN0031,187.9,Law,Budget preferred,121.4,Low,4,Strongly prefers Lviv,1
+SYN0032,120.2,Philology,Budget preferred,231.6,Medium,3,Prefers Lviv,0
+SYN0033,178.4,Mathematics,Budget only,47.5,Low,1,No strong preference,1
+SYN0034,124.9,Biology,Budget only,12.5,Medium,5,No strong preference,1
+SYN0035,196.9,Economics,Budget only,17.1,Low,2,Prefers Lviv,1
+SYN0036,191.2,International Relations,Contract acceptable,148.6,High,1,Prefers Lviv,1
+SYN0037,165.2,Biology,Budget preferred,51.1,High,3,Strongly prefers Lviv,1
+SYN0038,130.5,Psychology,Budget preferred,79.0,Low,1,Prefers Lviv,0
+SYN0039,165.0,Economics,Budget only,134.4,High,3,Strongly prefers Lviv,0
+SYN0040,190.5,International Relations,Budget preferred,71.2,Medium,5,No strong preference,1
+SYN0041,198.7,Computer Science,Contract acceptable,204.3,Medium,1,Strongly prefers Lviv,1
+SYN0042,191.2,Law,Budget preferred,70.4,Low,3,Strongly prefers Lviv,1
+SYN0043,188.2,Mathematics,Budget preferred,226.3,Low,1,No strong preference,1
+SYN0044,142.1,Computer Science,Budget preferred,192.8,High,3,Strongly prefers Lviv,0
+SYN0045,164.1,Philology,Contract acceptable,2.4,Low,2,No strong preference,1
+SYN0046,149.5,Law,Budget preferred,31.9,Medium,3,Strongly prefers Lviv,0
+SYN0047,136.8,International Relations,Contract acceptable,25.7,High,4,No strong preference,0
+SYN0048,194.1,International Relations,Budget only,244.1,Low,4,Strongly prefers Lviv,1
+SYN0049,194.0,Philology,Contract acceptable,216.0,Low,3,Strongly prefers Lviv,1
+SYN0050,128.6,Computer Science,Budget preferred,55.6,Medium,3,Prefers Lviv,0
+SYN0051,189.7,International Relations,Budget only,165.0,Medium,3,Prefers Lviv,1
+SYN0052,197.4,Psychology,Budget preferred,160.4,Medium,5,Prefers Lviv,0
+SYN0053,129.2,Psychology,Budget only,145.1,Medium,1,Strongly prefers Lviv,0
+SYN0054,147.7,Biology,Budget preferred,151.6,High,1,Prefers Lviv,0
+SYN0055,135.2,Computer Science,Contract acceptable,109.0,High,5,No strong preference,0
+SYN0056,179.4,International Relations,Budget preferred,107.8,High,3,No strong preference,1
+SYN0057,187.8,Psychology,Contract acceptable,77.3,Medium,3,Prefers Lviv,1
+SYN0058,164.4,International Relations,Budget preferred,166.2,Medium,2,No strong preference,0
+SYN0059,152.5,Computer Science,Budget preferred,71.7,Medium,5,No strong preference,0
+SYN0060,157.2,Mathematics,Contract acceptable,53.4,Medium,2,No strong preference,1
+SYN0061,161.2,Biology,Budget only,204.6,Low,3,Strongly prefers Lviv,0
+SYN0062,131.8,Computer Science,Budget only,246.0,High,1,Prefers Lviv,0
+SYN0063,170.4,International Relations,Contract acceptable,174.1,Medium,4,Strongly prefers Lviv,1
+SYN0064,175.0,Economics,Budget preferred,54.7,High,5,Prefers Lviv,1
+SYN0065,139.9,Economics,Budget preferred,33.3,Medium,5,No strong preference,0
+SYN0066,196.0,Mathematics,Contract acceptable,203.8,High,4,No strong preference,1
+SYN0067,132.7,Mathematics,Budget preferred,64.8,Low,3,No strong preference,0
+SYN0068,139.1,Mathematics,Budget only,178.4,Low,3,Prefers Lviv,0
+SYN0069,163.2,Law,Budget only,57.8,High,2,No strong preference,1
+SYN0070,153.2,Biology,Contract acceptable,116.5,Low,2,Prefers Lviv,0
+SYN0071,181.6,Computer Science,Contract acceptable,95.1,Low,3,Prefers Lviv,1
+SYN0072,188.3,Philology,Contract acceptable,186.9,High,5,Strongly prefers Lviv,1
+SYN0073,141.8,Mathematics,Budget only,97.2,High,4,No strong preference,1
+SYN0074,157.4,Law,Contract acceptable,133.5,Medium,5,No strong preference,0
+SYN0075,126.7,Philology,Budget only,216.7,Low,1,Prefers Lviv,0
+SYN0076,136.9,Biology,Budget preferred,190.3,Medium,3,Prefers Lviv,0
+SYN0077,126.6,Computer Science,Contract acceptable,134.9,Medium,2,No strong preference,1
+SYN0078,196.6,Computer Science,Budget only,237.4,Low,1,No strong preference,1
+SYN0079,130.1,Economics,Contract acceptable,236.9,Medium,3,Prefers Lviv,0
+SYN0080,168.6,Economics,Budget only,241.2,Low,5,Strongly prefers Lviv,0
+SYN0081,166.1,Philology,Budget preferred,235.4,Low,1,No strong preference,0
+SYN0082,170.2,Economics,Contract acceptable,193.1,High,5,Strongly prefers Lviv,0
+SYN0083,165.3,Computer Science,Budget preferred,133.2,High,3,Strongly prefers Lviv,1
+SYN0084,147.3,Philology,Budget preferred,26.4,Medium,4,No strong preference,1
+SYN0085,134.1,Psychology,Contract acceptable,202.0,High,4,Prefers Lviv,0
+SYN0086,178.5,Psychology,Budget preferred,212.9,Low,3,Prefers Lviv,1
+SYN0087,157.2,Philology,Budget preferred,7.2,Medium,2,Prefers Lviv,1
+SYN0088,183.8,Biology,Budget preferred,220.1,High,3,No strong preference,1
+SYN0089,195.8,Economics,Budget only,180.0,Medium,5,Strongly prefers Lviv,1
+SYN0090,171.7,Mathematics,Budget preferred,198.2,Low,3,Strongly prefers Lviv,1
+SYN0091,139.5,Biology,Budget preferred,138.4,Medium,4,No strong preference,0
+SYN0092,148.1,Mathematics,Budget preferred,76.7,Low,1,No strong preference,1
+SYN0093,129.6,Law,Budget only,54.1,Medium,3,No strong preference,0
+SYN0094,180.8,Psychology,Budget only,208.2,Medium,2,Prefers Lviv,1
+SYN0095,121.1,Law,Budget preferred,11.4,Low,5,Prefers Lviv,0
+SYN0096,130.1,Mathematics,Budget only,218.2,High,3,Prefers Lviv,0
+SYN0097,147.3,Computer Science,Budget preferred,235.3,Medium,1,Strongly prefers Lviv,0
+SYN0098,125.9,Computer Science,Budget only,37.3,High,3,Strongly prefers Lviv,0
+SYN0099,129.5,Philology,Contract acceptable,149.0,High,2,No strong preference,0
+SYN0100,192.7,Psychology,Contract acceptable,247.5,Medium,5,No strong preference,1
+SYN0101,196.8,Economics,Budget only,156.4,Medium,1,Strongly prefers Lviv,1
+SYN0102,164.2,Law,Budget only,102.1,High,5,Prefers Lviv,1
+SYN0103,138.5,Psychology,Contract acceptable,214.9,Low,2,Prefers Lviv,0
+SYN0104,170.0,International Relations,Budget preferred,28.7,Low,2,Prefers Lviv,0
+SYN0105,125.7,Law,Budget preferred,148.8,High,3,Prefers Lviv,1
+SYN0106,175.1,Philology,Budget preferred,125.1,Medium,4,Strongly prefers Lviv,1
+SYN0107,191.2,Biology,Contract acceptable,62.6,Low,2,No strong preference,0
+SYN0108,166.0,Computer Science,Contract acceptable,205.4,High,1,Strongly prefers Lviv,1
+SYN0109,172.1,Psychology,Budget only,249.2,Medium,4,Strongly prefers Lviv,1
+SYN0110,152.7,Biology,Contract acceptable,26.1,Low,3,Prefers Lviv,0
+SYN0111,143.1,Philology,Contract acceptable,9.2,Low,3,Prefers Lviv,1
+SYN0112,197.6,Philology,Contract acceptable,206.2,Low,5,Prefers Lviv,1
+SYN0113,135.0,Biology,Contract acceptable,189.1,High,4,Strongly prefers Lviv,1
+SYN0114,163.9,Psychology,Budget preferred,220.2,Medium,1,Strongly prefers Lviv,0
+SYN0115,168.7,International Relations,Contract acceptable,39.6,High,1,No strong preference,1
+SYN0116,138.0,Economics,Budget preferred,236.8,High,2,Prefers Lviv,0
+SYN0117,143.3,Psychology,Budget preferred,208.7,Medium,2,Prefers Lviv,0
+SYN0118,150.7,Law,Budget only,69.1,Medium,3,No strong preference,1
+SYN0119,120.2,Psychology,Contract acceptable,145.0,High,4,Strongly prefers Lviv,0
+SYN0120,158.7,Biology,Contract acceptable,190.7,Medium,4,Prefers Lviv,0
+SYN0121,198.5,International Relations,Contract acceptable,95.7,Medium,1,Prefers Lviv,1
+SYN0122,176.4,Philology,Budget preferred,247.1,High,2,Prefers Lviv,0
+SYN0123,130.1,Biology,Budget only,218.5,Medium,1,No strong preference,0
+SYN0124,121.2,Law,Budget preferred,217.7,Low,1,Prefers Lviv,0
+SYN0125,141.2,Philology,Contract acceptable,20.1,Medium,5,Prefers Lviv,0
+SYN0126,170.1,Mathematics,Contract acceptable,9.0,Low,2,No strong preference,0
+SYN0127,143.0,International Relations,Contract acceptable,22.6,Low,1,Prefers Lviv,1
+SYN0128,144.0,Computer Science,Budget only,81.1,Low,3,Prefers Lviv,1
+SYN0129,131.6,Philology,Contract acceptable,170.5,Low,2,Strongly prefers Lviv,1
+SYN0130,189.7,International Relations,Budget preferred,228.2,Low,2,Prefers Lviv,1
+SYN0131,156.8,Computer Science,Budget preferred,225.3,High,5,Strongly prefers Lviv,1
+SYN0132,195.6,Psychology,Contract acceptable,240.5,High,3,Prefers Lviv,0
+SYN0133,135.9,Philology,Budget preferred,26.7,Medium,5,Prefers Lviv,0
+SYN0134,199.4,Psychology,Budget only,244.5,High,4,Prefers Lviv,1
+SYN0135,189.2,Computer Science,Contract acceptable,186.3,Medium,2,No strong preference,0
+SYN0136,137.5,International Relations,Contract acceptable,62.7,High,2,No strong preference,1
+SYN0137,170.2,Computer Science,Budget preferred,197.2,Low,5,Prefers Lviv,0
+SYN0138,127.2,Psychology,Budget preferred,186.9,Low,2,Strongly prefers Lviv,0
+SYN0139,190.1,Biology,Contract acceptable,125.4,Medium,2,Prefers Lviv,0
+SYN0140,195.5,Psychology,Contract acceptable,217.6,Low,4,Strongly prefers Lviv,1
+SYN0141,197.3,Philology,Contract acceptable,91.4,Medium,1,Prefers Lviv,1
+SYN0142,156.4,Psychology,Contract acceptable,95.3,High,3,Strongly prefers Lviv,0
+SYN0143,157.7,Biology,Contract acceptable,55.3,Low,4,No strong preference,1
+SYN0144,152.7,Law,Budget only,236.6,Medium,4,Strongly prefers Lviv,1
+SYN0145,191.0,Law,Budget preferred,113.4,High,5,Prefers Lviv,1
+SYN0146,178.1,Philology,Contract acceptable,24.8,Medium,5,Prefers Lviv,0
+SYN0147,142.4,Biology,Budget only,110.8,Low,3,Strongly prefers Lviv,0
+SYN0148,149.4,Biology,Budget only,99.5,Low,1,Prefers Lviv,1
+SYN0149,137.0,Computer Science,Budget only,196.7,Low,2,No strong preference,0
+SYN0150,186.4,International Relations,Contract acceptable,54.0,Low,3,Strongly prefers Lviv,1
+SYN0151,167.7,Psychology,Budget only,246.9,High,3,Strongly prefers Lviv,1
+SYN0152,189.3,Law,Budget only,89.6,Low,5,Prefers Lviv,1
+SYN0153,141.2,Law,Contract acceptable,105.2,Low,1,Prefers Lviv,0
+SYN0154,149.0,Economics,Budget preferred,126.0,High,1,No strong preference,0
+SYN0155,189.4,Psychology,Budget preferred,160.8,Low,1,Prefers Lviv,0
+SYN0156,154.1,Economics,Budget preferred,178.1,Medium,1,Strongly prefers Lviv,1
+SYN0157,131.9,Law,Budget preferred,156.1,High,5,No strong preference,0
+SYN0158,199.6,Psychology,Budget preferred,126.4,Medium,1,No strong preference,1
+SYN0159,172.4,International Relations,Budget preferred,112.9,Low,4,Prefers Lviv,0
+SYN0160,151.9,Economics,Budget preferred,106.7,High,3,Prefers Lviv,0
+SYN0161,174.9,Mathematics,Budget only,22.8,Low,1,Prefers Lviv,1
+SYN0162,179.1,Law,Contract acceptable,15.0,High,5,Prefers Lviv,1
+SYN0163,152.9,Philology,Contract acceptable,12.9,Medium,5,Prefers Lviv,1
+SYN0164,166.2,International Relations,Budget only,164.2,Low,1,Prefers Lviv,0
+SYN0165,149.4,Psychology,Contract acceptable,56.5,Medium,5,No strong preference,0
+SYN0166,171.4,Computer Science,Contract acceptable,232.3,High,3,Strongly prefers Lviv,1
+SYN0167,176.2,Psychology,Budget preferred,87.8,Low,2,No strong preference,0
+SYN0168,125.6,Computer Science,Budget only,186.5,Low,4,Prefers Lviv,0
+SYN0169,132.6,Psychology,Contract acceptable,81.1,High,5,Strongly prefers Lviv,0
+SYN0170,132.4,Computer Science,Contract acceptable,20.4,Medium,4,Prefers Lviv,0
+SYN0171,153.1,International Relations,Contract acceptable,28.5,Medium,1,Prefers Lviv,0
+SYN0172,167.5,Psychology,Budget only,55.1,High,1,Strongly prefers Lviv,1
+SYN0173,195.6,Law,Budget preferred,72.4,Low,1,Prefers Lviv,1
+SYN0174,134.1,Philology,Contract acceptable,175.9,High,5,No strong preference,0
+SYN0175,125.8,Computer Science,Budget preferred,4.7,Low,3,No strong preference,0
+SYN0176,152.4,Philology,Budget preferred,28.8,Low,3,Strongly prefers Lviv,0
+SYN0177,169.5,Biology,Budget only,109.2,Low,2,Prefers Lviv,1
+SYN0178,161.9,Philology,Budget preferred,186.5,Low,3,Strongly prefers Lviv,1
+SYN0179,170.7,International Relations,Budget preferred,87.8,High,2,Strongly prefers Lviv,1
+SYN0180,140.5,Law,Contract acceptable,38.2,High,1,Strongly prefers Lviv,0
+SYN0181,170.2,Mathematics,Contract acceptable,190.0,Medium,5,No strong preference,0
+SYN0182,170.0,Biology,Budget only,109.9,Medium,4,No strong preference,1
+SYN0183,142.0,Computer Science,Budget preferred,126.8,Medium,4,Prefers Lviv,1
+SYN0184,149.5,Psychology,Budget only,161.2,Low,5,No strong preference,0
+SYN0185,157.0,Computer Science,Budget preferred,227.3,High,2,Prefers Lviv,0
+SYN0186,160.1,Computer Science,Budget preferred,25.9,Medium,1,No strong preference,0
+SYN0187,123.1,Mathematics,Budget preferred,131.0,High,2,Prefers Lviv,0
+SYN0188,142.6,Philology,Budget preferred,169.7,Low,3,Strongly prefers Lviv,0
+SYN0189,164.6,Philology,Budget preferred,63.0,High,5,Strongly prefers Lviv,1
+SYN0190,166.6,Law,Budget preferred,77.6,High,4,Strongly prefers Lviv,1
+SYN0191,195.0,Psychology,Contract acceptable,94.2,Medium,2,No strong preference,1
+SYN0192,195.8,Economics,Contract acceptable,167.6,High,3,Strongly prefers Lviv,1
+SYN0193,134.4,International Relations,Budget preferred,236.9,Medium,2,Strongly prefers Lviv,0
+SYN0194,132.4,Psychology,Budget only,126.9,High,5,Strongly prefers Lviv,0
+SYN0195,190.1,Law,Contract acceptable,94.2,Low,2,No strong preference,0
+SYN0196,184.7,Law,Contract acceptable,109.4,Medium,3,No strong preference,1
+SYN0197,197.6,Psychology,Contract acceptable,196.0,Low,5,Strongly prefers Lviv,1
+SYN0198,184.7,Mathematics,Budget only,92.0,High,4,Prefers Lviv,1
+SYN0199,182.2,Philology,Budget only,204.2,High,2,Prefers Lviv,1
+SYN0200,158.4,Biology,Contract acceptable,233.6,High,5,Strongly prefers Lviv,1
+SYN0201,181.0,Psychology,Budget preferred,226.3,Low,4,Strongly prefers Lviv,0
+SYN0202,137.8,Mathematics,Budget preferred,232.6,Medium,1,Prefers Lviv,0
+SYN0203,138.9,Economics,Budget preferred,56.1,Medium,1,No strong preference,0
+SYN0204,183.3,Law,Budget only,71.7,Medium,2,No strong preference,1
+SYN0205,169.2,Economics,Budget only,64.0,Low,5,No strong preference,1
+SYN0206,153.9,Psychology,Budget only,75.3,Low,2,Prefers Lviv,0
+SYN0207,169.8,Economics,Budget only,209.2,Medium,5,No strong preference,1
+SYN0208,161.2,International Relations,Contract acceptable,35.9,Medium,1,No strong preference,1
+SYN0209,165.7,Law,Contract acceptable,167.1,High,3,Strongly prefers Lviv,0
+SYN0210,163.5,Computer Science,Budget preferred,218.3,Low,4,Prefers Lviv,1
+SYN0211,121.3,Economics,Budget preferred,60.3,High,1,No strong preference,0
+SYN0212,146.6,Computer Science,Budget preferred,136.5,High,2,No strong preference,0
+SYN0213,175.6,Law,Budget only,15.8,Medium,1,Prefers Lviv,1
+SYN0214,183.3,Computer Science,Budget preferred,233.3,High,4,No strong preference,1
+SYN0215,122.9,International Relations,Budget preferred,89.2,Low,3,Prefers Lviv,1
+SYN0216,149.4,Philology,Contract acceptable,109.9,Medium,3,Strongly prefers Lviv,0
+SYN0217,159.8,Psychology,Budget only,181.8,Low,4,No strong preference,0
+SYN0218,134.4,Psychology,Budget preferred,25.6,Medium,3,Prefers Lviv,0
+SYN0219,177.4,Law,Contract acceptable,111.0,Medium,1,No strong preference,0
+SYN0220,148.2,Philology,Budget preferred,159.9,Low,1,No strong preference,0
+SYN0221,149.1,Law,Budget only,35.7,High,4,Strongly prefers Lviv,1
+SYN0222,138.9,Biology,Budget preferred,95.7,High,1,No strong preference,1
+SYN0223,156.0,Biology,Budget preferred,111.0,Low,5,Strongly prefers Lviv,1
+SYN0224,151.8,Psychology,Budget only,240.1,Low,2,Prefers Lviv,0
+SYN0225,193.1,Economics,Budget preferred,193.7,High,4,Strongly prefers Lviv,0
+SYN0226,142.8,Mathematics,Budget only,30.7,Low,4,Strongly prefers Lviv,0
+SYN0227,155.6,Economics,Contract acceptable,241.9,Medium,3,No strong preference,1
+SYN0228,163.4,Psychology,Budget only,178.0,High,2,Prefers Lviv,1
+SYN0229,129.7,International Relations,Budget only,59.2,Medium,1,Prefers Lviv,0
+SYN0230,149.5,Law,Contract acceptable,221.1,Low,3,Prefers Lviv,0
+SYN0231,177.5,Philology,Budget preferred,205.8,Low,2,Prefers Lviv,0
+SYN0232,156.0,Biology,Budget only,219.5,High,5,Strongly prefers Lviv,0
+SYN0233,130.3,Computer Science,Budget only,129.5,Medium,2,Strongly prefers Lviv,0
+SYN0234,176.7,Biology,Contract acceptable,223.7,Low,3,Strongly prefers Lviv,1
+SYN0235,164.1,Law,Contract acceptable,75.7,High,1,No strong preference,0
+SYN0236,167.3,Law,Budget only,164.7,High,5,Prefers Lviv,0
+SYN0237,165.1,Computer Science,Budget only,11.4,High,5,Prefers Lviv,1
+SYN0238,181.4,Philology,Contract acceptable,159.7,Medium,5,Prefers Lviv,1
+SYN0239,144.2,International Relations,Contract acceptable,101.5,Medium,1,No strong preference,1
+SYN0240,155.2,Mathematics,Budget preferred,51.0,High,2,Prefers Lviv,0
+SYN0241,145.5,Biology,Budget preferred,32.7,Medium,5,No strong preference,1
+SYN0242,139.3,Economics,Budget preferred,112.4,Low,1,Strongly prefers Lviv,0
+SYN0243,150.7,Philology,Budget only,240.7,Low,3,No strong preference,0
+SYN0244,135.2,Law,Budget preferred,249.0,Medium,4,Prefers Lviv,0
+SYN0245,127.2,Philology,Contract acceptable,114.3,Low,2,No strong preference,0
+SYN0246,124.0,Mathematics,Contract acceptable,220.6,High,4,Prefers Lviv,0
+SYN0247,187.8,Philology,Budget only,220.6,High,3,Prefers Lviv,1
+SYN0248,152.0,International Relations,Budget preferred,138.3,Low,4,No strong preference,0
+SYN0249,164.0,Economics,Budget only,243.8,Medium,3,Prefers Lviv,0
+SYN0250,149.2,Law,Budget only,150.6,Medium,5,Strongly prefers Lviv,1
+SYN0251,131.0,Biology,Budget preferred,129.8,Low,5,No strong preference,1
+SYN0252,194.5,Biology,Budget only,98.2,High,3,No strong preference,1
+SYN0253,186.3,Mathematics,Contract acceptable,140.7,Medium,1,Prefers Lviv,1
+SYN0254,128.8,Philology,Contract acceptable,76.9,High,1,No strong preference,0
+SYN0255,197.4,International Relations,Contract acceptable,12.8,Medium,2,No strong preference,1
+SYN0256,169.6,Philology,Budget only,205.4,Low,1,No strong preference,0
+SYN0257,128.8,Computer Science,Budget preferred,78.4,Low,4,No strong preference,0
+SYN0258,160.1,Mathematics,Contract acceptable,181.9,High,2,No strong preference,1
+SYN0259,146.0,Mathematics,Contract acceptable,94.2,Low,4,No strong preference,0
+SYN0260,148.3,Psychology,Contract acceptable,121.0,Low,3,No strong preference,0
+SYN0261,195.3,Psychology,Budget preferred,176.2,High,4,Prefers Lviv,1
+SYN0262,164.8,Psychology,Budget preferred,30.5,High,5,Prefers Lviv,0
+SYN0263,151.6,Biology,Budget only,72.6,Medium,1,Prefers Lviv,0
+SYN0264,172.5,Mathematics,Budget only,50.5,High,3,No strong preference,1
+SYN0265,131.0,International Relations,Budget only,12.7,High,2,No strong preference,1
+SYN0266,128.0,Biology,Contract acceptable,118.1,High,2,Strongly prefers Lviv,0
+SYN0267,198.2,Law,Budget preferred,163.2,Medium,4,No strong preference,1
+SYN0268,197.1,Biology,Budget preferred,161.5,Low,5,Strongly prefers Lviv,1
+SYN0269,177.8,Computer Science,Budget only,104.5,Low,1,Prefers Lviv,0
+SYN0270,134.9,Psychology,Budget only,2.3,High,5,Strongly prefers Lviv,0
+SYN0271,146.8,Mathematics,Contract acceptable,135.8,Medium,2,No strong preference,0
+SYN0272,135.4,Economics,Budget preferred,40.6,Medium,3,No strong preference,1
+SYN0273,178.9,Psychology,Contract acceptable,168.6,Low,2,No strong preference,0
+SYN0274,191.8,Philology,Contract acceptable,82.0,Medium,1,Strongly prefers Lviv,0
+SYN0275,158.2,International Relations,Budget only,65.2,Low,4,Prefers Lviv,0
+SYN0276,144.2,Computer Science,Budget preferred,163.4,High,2,Strongly prefers Lviv,0
+SYN0277,157.2,Law,Budget preferred,171.5,High,3,No strong preference,1
+SYN0278,193.3,Psychology,Budget preferred,153.7,Low,2,Prefers Lviv,1
+SYN0279,179.8,Biology,Budget preferred,175.5,Medium,5,No strong preference,0
+SYN0280,180.9,Economics,Contract acceptable,111.7,High,3,Strongly prefers Lviv,0
+SYN0281,129.0,International Relations,Contract acceptable,134.2,Low,3,No strong preference,0
+SYN0282,174.4,Mathematics,Budget only,224.7,Medium,1,Prefers Lviv,1
+SYN0283,153.2,Computer Science,Contract acceptable,115.6,Medium,1,Prefers Lviv,1
+SYN0284,120.2,International Relations,Contract acceptable,18.3,Medium,3,No strong preference,1
+SYN0285,199.5,Economics,Budget preferred,7.9,Medium,2,Strongly prefers Lviv,1
+SYN0286,198.3,Philology,Budget preferred,248.2,Medium,4,Prefers Lviv,1
+SYN0287,174.6,Law,Contract acceptable,215.1,Low,2,No strong preference,1
+SYN0288,130.2,International Relations,Budget only,189.0,Medium,4,No strong preference,0
+SYN0289,153.9,Philology,Budget only,61.9,Medium,2,Prefers Lviv,1
+SYN0290,190.0,Economics,Budget only,202.4,Medium,5,Strongly prefers Lviv,1
+SYN0291,125.4,Computer Science,Budget preferred,149.4,High,1,Strongly prefers Lviv,0
+SYN0292,152.2,International Relations,Contract acceptable,54.3,Low,2,No strong preference,0
+SYN0293,138.7,Biology,Contract acceptable,149.5,High,3,Strongly prefers Lviv,1
+SYN0294,131.5,International Relations,Budget preferred,75.1,Low,5,No strong preference,0
+SYN0295,192.9,Philology,Contract acceptable,123.9,Medium,4,No strong preference,1
+SYN0296,153.3,Law,Budget preferred,94.1,High,4,Strongly prefers Lviv,0
+SYN0297,144.1,Law,Budget preferred,228.7,High,4,Prefers Lviv,0
+SYN0298,130.7,International Relations,Budget preferred,50.8,High,1,Prefers Lviv,0
+SYN0299,127.4,International Relations,Budget only,67.1,High,5,No strong preference,1
+SYN0300,125.8,International Relations,Budget preferred,52.2,Medium,3,Strongly prefers Lviv,1
+SYN0301,135.2,Economics,Contract acceptable,249.9,Medium,2,No strong preference,0
+SYN0302,136.4,International Relations,Contract acceptable,80.4,Medium,4,Prefers Lviv,0
+SYN0303,148.7,Psychology,Budget preferred,128.2,Medium,4,Strongly prefers Lviv,0
+SYN0304,177.8,Biology,Budget only,92.7,Medium,1,No strong preference,0
+SYN0305,179.3,Computer Science,Budget preferred,138.3,High,5,No strong preference,1
+SYN0306,132.2,Biology,Budget only,95.0,Low,4,No strong preference,0
+SYN0307,174.8,Psychology,Budget preferred,241.6,High,4,Prefers Lviv,1
+SYN0308,183.6,Law,Budget only,180.1,Medium,2,No strong preference,0
+SYN0309,196.6,Computer Science,Budget only,236.3,High,1,Strongly prefers Lviv,1
+SYN0310,187.4,International Relations,Budget only,176.8,Low,2,No strong preference,1
+SYN0311,124.8,Mathematics,Contract acceptable,122.0,Low,5,No strong preference,0
+SYN0312,121.3,Psychology,Contract acceptable,244.4,Low,5,No strong preference,0
+SYN0313,184.5,Law,Budget only,229.5,High,2,Strongly prefers Lviv,1
+SYN0314,162.1,Biology,Budget preferred,198.7,Low,3,Prefers Lviv,1
+SYN0315,139.5,International Relations,Budget preferred,171.0,Low,1,Strongly prefers Lviv,0
+SYN0316,150.2,Mathematics,Budget only,159.2,High,2,Strongly prefers Lviv,0
+SYN0317,154.7,Biology,Contract acceptable,244.3,Low,5,Strongly prefers Lviv,1
+SYN0318,192.1,Mathematics,Budget preferred,11.6,Low,3,No strong preference,1
+SYN0319,122.6,Biology,Budget only,240.4,High,2,No strong preference,0
+SYN0320,194.3,Psychology,Budget only,141.0,High,4,No strong preference,0
+SYN0321,146.5,Law,Contract acceptable,181.0,High,3,Strongly prefers Lviv,1
+SYN0322,138.6,Economics,Budget preferred,151.3,High,5,Prefers Lviv,0
+SYN0323,146.1,Psychology,Budget preferred,122.7,Medium,5,Prefers Lviv,0
+SYN0324,174.4,Philology,Budget only,193.0,Medium,2,No strong preference,1
+SYN0325,141.4,Philology,Contract acceptable,196.0,Low,4,Prefers Lviv,0
+SYN0326,127.3,Psychology,Budget preferred,90.0,Medium,1,Strongly prefers Lviv,1
+SYN0327,154.5,Philology,Budget only,6.6,Medium,5,Strongly prefers Lviv,1
+SYN0328,182.8,Philology,Budget only,73.0,Medium,1,No strong preference,0
+SYN0329,192.4,International Relations,Contract acceptable,130.3,High,4,Strongly prefers Lviv,1
+SYN0330,144.1,Mathematics,Budget only,15.8,Medium,3,Prefers Lviv,1
+SYN0331,182.6,Biology,Budget preferred,236.1,High,4,No strong preference,1
+SYN0332,156.6,Law,Budget preferred,1.7,Medium,3,No strong preference,1
+SYN0333,189.0,Mathematics,Budget preferred,107.7,High,5,Strongly prefers Lviv,1
+SYN0334,168.3,International Relations,Budget preferred,78.5,Medium,3,Prefers Lviv,0
+SYN0335,170.6,International Relations,Budget preferred,94.0,Medium,3,Strongly prefers Lviv,0
+SYN0336,136.0,Law,Contract acceptable,191.9,Low,4,No strong preference,0
+SYN0337,183.8,Economics,Budget preferred,168.2,Low,3,Strongly prefers Lviv,1
+SYN0338,132.3,Philology,Budget preferred,18.5,High,4,No strong preference,0
+SYN0339,160.5,Philology,Contract acceptable,9.2,Medium,5,No strong preference,1
+SYN0340,126.8,International Relations,Contract acceptable,166.2,Low,5,Strongly prefers Lviv,0
+SYN0341,171.6,Philology,Budget preferred,241.4,Medium,1,Strongly prefers Lviv,1
+SYN0342,137.8,International Relations,Budget preferred,93.5,Medium,5,No strong preference,0
+SYN0343,147.6,Computer Science,Budget preferred,26.1,Medium,1,Strongly prefers Lviv,0
+SYN0344,178.4,Biology,Budget preferred,85.8,Low,5,Prefers Lviv,1
+SYN0345,127.8,Mathematics,Budget preferred,16.8,Low,1,Strongly prefers Lviv,0
+SYN0346,171.8,Law,Contract acceptable,61.0,Low,5,Strongly prefers Lviv,1
+SYN0347,154.1,Mathematics,Budget only,199.4,High,2,Strongly prefers Lviv,0
+SYN0348,154.6,Computer Science,Contract acceptable,153.5,Low,4,No strong preference,0
+SYN0349,120.4,International Relations,Budget only,69.6,High,1,No strong preference,1
+SYN0350,189.8,Law,Budget preferred,81.5,Medium,1,Prefers Lviv,1
+SYN0351,159.2,Biology,Contract acceptable,97.2,Medium,5,Strongly prefers Lviv,1
+SYN0352,187.6,Law,Contract acceptable,176.5,Medium,5,No strong preference,1
+SYN0353,130.7,Economics,Budget only,76.3,Low,3,No strong preference,1
+SYN0354,151.1,Law,Contract acceptable,95.9,Low,4,No strong preference,0
+SYN0355,193.5,Law,Contract acceptable,41.7,Medium,2,Strongly prefers Lviv,1
+SYN0356,156.1,Computer Science,Budget preferred,238.0,Medium,2,Strongly prefers Lviv,0
+SYN0357,197.1,Mathematics,Budget preferred,171.2,Medium,4,Prefers Lviv,1
+SYN0358,165.2,International Relations,Budget preferred,8.2,Low,5,Prefers Lviv,1
+SYN0359,156.6,Mathematics,Contract acceptable,127.7,High,1,Prefers Lviv,0
+SYN0360,185.9,Biology,Contract acceptable,205.7,Low,4,No strong preference,1
+SYN0361,154.0,International Relations,Budget preferred,218.7,Low,4,Prefers Lviv,1
+SYN0362,185.3,Mathematics,Budget only,193.9,Low,2,No strong preference,1
+SYN0363,148.1,Philology,Budget only,154.0,Low,2,Strongly prefers Lviv,0
+SYN0364,162.6,Law,Budget preferred,244.8,Medium,3,No strong preference,1
+SYN0365,188.6,Economics,Budget only,240.7,Medium,1,Prefers Lviv,0
+SYN0366,130.2,Law,Budget only,36.6,Medium,2,No strong preference,0
+SYN0367,131.4,Psychology,Contract acceptable,103.6,Medium,1,No strong preference,0
+SYN0368,181.5,Philology,Contract acceptable,187.5,High,3,Prefers Lviv,0
+SYN0369,146.2,Computer Science,Contract acceptable,23.3,Medium,3,Strongly prefers Lviv,0
+SYN0370,151.8,Philology,Budget only,123.7,Medium,3,Prefers Lviv,0
+SYN0371,130.4,Mathematics,Budget preferred,223.5,Low,1,Strongly prefers Lviv,0
+SYN0372,186.9,Computer Science,Budget only,232.4,Low,4,Prefers Lviv,1
+SYN0373,196.6,International Relations,Contract acceptable,227.4,High,3,Strongly prefers Lviv,1
+SYN0374,190.1,Economics,Contract acceptable,90.1,Low,3,No strong preference,0
+SYN0375,133.2,Philology,Contract acceptable,76.4,High,2,Prefers Lviv,0
+SYN0376,176.3,Computer Science,Budget only,119.2,Low,5,Strongly prefers Lviv,1
+SYN0377,155.6,Computer Science,Contract acceptable,85.9,Low,4,No strong preference,1
+SYN0378,125.7,Philology,Budget only,182.7,Low,1,Prefers Lviv,0
+SYN0379,143.9,Philology,Budget only,160.4,High,2,Strongly prefers Lviv,0
+SYN0380,120.7,Law,Budget preferred,87.8,Low,2,Prefers Lviv,0
+SYN0381,155.4,International Relations,Budget only,224.1,Low,1,No strong preference,0
+SYN0382,148.1,Philology,Budget preferred,197.8,Low,3,No strong preference,1
+SYN0383,164.3,Psychology,Contract acceptable,6.7,High,3,Strongly prefers Lviv,1
+SYN0384,160.8,Philology,Budget preferred,161.5,Low,4,Prefers Lviv,1
+SYN0385,160.0,Economics,Contract acceptable,222.2,Low,3,Prefers Lviv,1
+SYN0386,188.9,Philology,Budget preferred,136.6,Low,4,Strongly prefers Lviv,1
+SYN0387,125.4,Psychology,Budget only,10.0,Low,4,No strong preference,0
+SYN0388,177.0,Philology,Budget preferred,175.5,Low,5,No strong preference,1
+SYN0389,142.2,Psychology,Budget only,127.8,Low,2,No strong preference,0
+SYN0390,166.9,Economics,Budget preferred,174.7,High,2,Strongly prefers Lviv,1
+SYN0391,194.0,Economics,Budget preferred,153.1,Low,3,No strong preference,1
+SYN0392,179.3,Economics,Budget only,177.0,High,1,Strongly prefers Lviv,1
+SYN0393,147.7,Psychology,Budget only,93.0,High,3,No strong preference,0
+SYN0394,181.7,Computer Science,Budget preferred,201.8,Medium,5,Strongly prefers Lviv,1
+SYN0395,198.0,Economics,Budget preferred,113.8,Medium,1,Prefers Lviv,1
+SYN0396,133.4,Law,Budget preferred,193.3,High,1,Strongly prefers Lviv,0
+SYN0397,120.2,Computer Science,Budget only,11.5,Medium,4,Strongly prefers Lviv,1
+SYN0398,196.8,Computer Science,Contract acceptable,200.8,High,4,Strongly prefers Lviv,1
+SYN0399,153.3,Biology,Budget preferred,206.5,High,3,Strongly prefers Lviv,0
+SYN0400,192.2,Law,Budget only,201.1,Low,4,Strongly prefers Lviv,0
+SYN0401,189.3,Psychology,Budget preferred,21.6,Medium,1,Prefers Lviv,1
+SYN0402,165.1,Psychology,Contract acceptable,155.7,Medium,3,No strong preference,0
+SYN0403,199.8,International Relations,Contract acceptable,225.1,Low,2,Strongly prefers Lviv,0
+SYN0404,121.9,Biology,Contract acceptable,209.9,Low,3,Strongly prefers Lviv,0
+SYN0405,150.1,Psychology,Budget only,51.3,Low,4,Prefers Lviv,0
+SYN0406,197.8,Law,Contract acceptable,70.0,Low,2,No strong preference,1
+SYN0407,191.6,Mathematics,Contract acceptable,21.2,Low,5,Strongly prefers Lviv,1
+SYN0408,151.5,Computer Science,Budget preferred,165.6,Low,2,Prefers Lviv,1
+SYN0409,145.2,Philology,Contract acceptable,208.0,Medium,3,Prefers Lviv,0
+SYN0410,126.0,International Relations,Budget only,195.0,High,1,Strongly prefers Lviv,1
+SYN0411,156.0,Biology,Budget preferred,30.2,Medium,2,Prefers Lviv,1
+SYN0412,141.2,Economics,Budget only,39.4,High,3,No strong preference,0
+SYN0413,123.2,Biology,Budget only,22.8,Low,3,Prefers Lviv,0
+SYN0414,174.2,Psychology,Budget only,7.8,Medium,4,No strong preference,1
+SYN0415,140.0,Mathematics,Budget only,201.0,Low,1,Strongly prefers Lviv,1
+SYN0416,182.5,International Relations,Budget only,49.5,Medium,3,No strong preference,1
+SYN0417,171.6,Psychology,Budget only,5.5,Low,2,No strong preference,1
+SYN0418,130.3,Biology,Budget only,10.7,Medium,1,Strongly prefers Lviv,0
+SYN0419,154.7,Philology,Budget preferred,7.4,High,4,Strongly prefers Lviv,1
+SYN0420,192.7,Psychology,Budget preferred,111.5,Low,1,No strong preference,1
+SYN0421,139.7,Psychology,Budget preferred,103.0,High,4,Strongly prefers Lviv,1
+SYN0422,150.6,Philology,Budget only,160.7,High,2,No strong preference,0
+SYN0423,163.5,Computer Science,Budget preferred,195.5,Medium,4,No strong preference,0
+SYN0424,147.5,Biology,Budget preferred,67.6,Low,3,No strong preference,1
+SYN0425,191.7,Psychology,Budget only,202.2,Medium,5,Prefers Lviv,1
+SYN0426,200.0,Law,Budget only,62.0,Low,3,No strong preference,1
+SYN0427,193.4,Computer Science,Budget only,143.9,Medium,3,Strongly prefers Lviv,1
+SYN0428,167.4,Biology,Contract acceptable,7.1,High,3,No strong preference,1
+SYN0429,165.0,International Relations,Budget preferred,135.5,Low,4,Strongly prefers Lviv,1
+SYN0430,138.6,International Relations,Budget only,131.6,Low,3,No strong preference,1
+SYN0431,130.4,Law,Budget preferred,14.9,Low,5,No strong preference,0
+SYN0432,181.9,Biology,Budget only,93.4,High,4,No strong preference,1
+SYN0433,144.1,Law,Budget only,183.1,Medium,4,No strong preference,0
+SYN0434,176.6,Biology,Budget only,166.4,Low,4,Prefers Lviv,1
+SYN0435,143.6,Law,Contract acceptable,0.4,High,5,Prefers Lviv,0
+SYN0436,181.7,Computer Science,Budget only,150.6,High,2,No strong preference,1
+SYN0437,194.9,Law,Budget preferred,186.3,Low,3,Prefers Lviv,1
+SYN0438,190.8,Economics,Contract acceptable,167.5,High,3,Prefers Lviv,1
+SYN0439,136.8,Economics,Budget preferred,64.2,Low,1,Strongly prefers Lviv,0
+SYN0440,178.6,Law,Budget preferred,123.3,Medium,3,No strong preference,1
+SYN0441,186.3,International Relations,Budget only,112.8,Low,3,Strongly prefers Lviv,1
+SYN0442,196.1,Economics,Budget preferred,42.5,Medium,2,No strong preference,1
+SYN0443,195.3,Economics,Budget preferred,148.5,High,4,No strong preference,1
+SYN0444,195.4,Law,Contract acceptable,222.4,Low,1,Strongly prefers Lviv,1
+SYN0445,198.0,Philology,Contract acceptable,138.5,High,5,Prefers Lviv,1
+SYN0446,143.8,Economics,Budget only,98.2,High,4,Strongly prefers Lviv,1
+SYN0447,120.3,Economics,Budget preferred,206.0,High,5,Prefers Lviv,0
+SYN0448,122.1,Law,Contract acceptable,73.0,Low,4,Strongly prefers Lviv,0
+SYN0449,151.8,Mathematics,Contract acceptable,66.3,High,5,Prefers Lviv,1
+SYN0450,190.8,Biology,Budget only,111.4,Medium,4,Prefers Lviv,1
+SYN0451,187.0,Computer Science,Budget only,188.1,High,1,Strongly prefers Lviv,1
+SYN0452,184.7,Philology,Contract acceptable,56.9,Low,4,No strong preference,1
+SYN0453,162.8,Mathematics,Contract acceptable,220.4,Medium,3,Strongly prefers Lviv,1
+SYN0454,188.3,Computer Science,Contract acceptable,142.8,High,5,No strong preference,0
+SYN0455,131.8,Mathematics,Budget only,237.3,Low,2,Strongly prefers Lviv,1
+SYN0456,153.9,Philology,Budget only,249.3,High,2,No strong preference,1
+SYN0457,192.9,Economics,Budget only,97.0,Medium,5,Prefers Lviv,1
+SYN0458,161.6,Computer Science,Contract acceptable,155.8,High,4,Strongly prefers Lviv,1
+SYN0459,131.9,Economics,Budget only,140.7,Low,3,No strong preference,0
+SYN0460,190.2,Psychology,Budget preferred,163.7,High,5,Prefers Lviv,1
+SYN0461,142.0,Law,Contract acceptable,152.2,High,4,Strongly prefers Lviv,0
+SYN0462,190.3,International Relations,Budget only,186.4,Medium,3,Strongly prefers Lviv,1
+SYN0463,183.5,Psychology,Budget preferred,210.7,High,1,Strongly prefers Lviv,1
+SYN0464,197.9,Mathematics,Budget preferred,67.4,Medium,5,No strong preference,1
+SYN0465,155.3,Philology,Contract acceptable,121.1,High,3,Strongly prefers Lviv,1
+SYN0466,132.7,Psychology,Contract acceptable,126.7,Low,5,No strong preference,1
+SYN0467,135.4,International Relations,Budget only,62.4,Medium,1,Prefers Lviv,0
+SYN0468,141.9,Mathematics,Contract acceptable,99.2,Low,1,Strongly prefers Lviv,0
+SYN0469,167.5,Law,Budget preferred,146.7,Medium,3,Strongly prefers Lviv,0
+SYN0470,140.7,Economics,Budget preferred,6.9,Low,2,No strong preference,0
+SYN0471,137.1,International Relations,Contract acceptable,56.3,Low,3,No strong preference,0
+SYN0472,121.6,Computer Science,Budget preferred,227.9,High,2,No strong preference,0
+SYN0473,137.9,Psychology,Contract acceptable,241.8,High,3,Prefers Lviv,0
+SYN0474,188.1,Mathematics,Budget preferred,54.6,Medium,5,No strong preference,1
+SYN0475,128.2,Biology,Contract acceptable,161.8,High,3,Prefers Lviv,0
+SYN0476,158.5,Biology,Budget preferred,160.1,Medium,3,No strong preference,0
+SYN0477,191.4,Psychology,Budget only,37.5,Low,1,No strong preference,1
+SYN0478,145.6,Law,Contract acceptable,6.4,Medium,3,Prefers Lviv,0
+SYN0479,152.4,Computer Science,Contract acceptable,177.0,High,2,Prefers Lviv,0
+SYN0480,137.8,Mathematics,Contract acceptable,89.6,Medium,2,No strong preference,0
+SYN0481,134.5,Economics,Budget preferred,32.0,Medium,5,Strongly prefers Lviv,0
+SYN0482,192.0,Economics,Budget only,88.8,High,3,Prefers Lviv,1
+SYN0483,146.5,Psychology,Contract acceptable,73.5,Low,4,Strongly prefers Lviv,0
+SYN0484,166.7,Economics,Budget preferred,222.4,High,1,No strong preference,0
+SYN0485,143.9,Computer Science,Budget only,34.3,Low,3,Prefers Lviv,0
+SYN0486,191.4,Mathematics,Budget only,79.1,High,2,Strongly prefers Lviv,1
+SYN0487,170.5,Law,Budget preferred,158.6,Low,4,Prefers Lviv,1
+SYN0488,181.9,Law,Budget preferred,196.3,Low,2,No strong preference,1
+SYN0489,154.4,Philology,Budget preferred,95.8,Low,5,Strongly prefers Lviv,0
+SYN0490,196.0,Biology,Contract acceptable,47.6,High,1,No strong preference,1
+SYN0491,138.1,Biology,Budget preferred,32.2,Medium,5,No strong preference,1
+SYN0492,125.2,Computer Science,Budget preferred,237.1,Medium,5,No strong preference,0
+SYN0493,154.7,Law,Budget preferred,249.0,Medium,3,Strongly prefers Lviv,1
+SYN0494,192.6,Philology,Budget only,57.1,High,2,Strongly prefers Lviv,1
+SYN0495,167.2,Law,Budget only,91.6,High,1,Prefers Lviv,0
+SYN0496,140.5,Computer Science,Contract acceptable,248.7,High,1,No strong preference,0
+SYN0497,123.9,Economics,Budget preferred,111.1,Low,5,Prefers Lviv,0
+SYN0498,132.3,Computer Science,Budget preferred,105.2,Low,5,Prefers Lviv,0
+SYN0499,176.1,Philology,Budget only,127.9,High,1,Prefers Lviv,1
+SYN0500,128.5,International Relations,Contract acceptable,49.9,Medium,5,Strongly prefers Lviv,0
+SYN0501,152.8,Law,Budget only,137.0,Low,4,Prefers Lviv,1
+SYN0502,121.0,Economics,Budget only,208.8,High,4,Strongly prefers Lviv,0
+SYN0503,182.4,Economics,Contract acceptable,180.9,Medium,2,Prefers Lviv,0
+SYN0504,143.7,Mathematics,Budget only,25.0,Low,1,Prefers Lviv,1
+SYN0505,174.1,Philology,Contract acceptable,29.0,Low,1,Strongly prefers Lviv,1
+SYN0506,133.6,Biology,Budget preferred,238.8,Medium,1,Prefers Lviv,0
+SYN0507,134.6,Philology,Budget preferred,240.6,Medium,4,No strong preference,0
+SYN0508,184.0,Law,Budget only,33.1,High,1,Strongly prefers Lviv,1
+SYN0509,192.9,Mathematics,Contract acceptable,169.6,Low,5,Prefers Lviv,1
+SYN0510,168.9,Law,Budget preferred,230.1,Low,4,Prefers Lviv,1
+SYN0511,140.9,Biology,Budget only,176.1,High,5,No strong preference,0
+SYN0512,165.2,Biology,Contract acceptable,130.8,High,5,Strongly prefers Lviv,1
+SYN0513,178.1,Mathematics,Budget preferred,165.9,High,4,Strongly prefers Lviv,0
+SYN0514,164.7,Computer Science,Budget only,160.8,Low,5,Prefers Lviv,0
+SYN0515,189.6,Economics,Budget preferred,80.2,Medium,3,Strongly prefers Lviv,1
+SYN0516,164.0,Philology,Budget preferred,204.3,Low,4,Prefers Lviv,0
+SYN0517,155.8,Mathematics,Budget preferred,79.0,Medium,1,Strongly prefers Lviv,1
+SYN0518,122.9,Computer Science,Budget only,197.9,High,3,No strong preference,0
+SYN0519,172.4,Mathematics,Budget preferred,90.8,Low,2,Prefers Lviv,1
+SYN0520,181.4,Mathematics,Contract acceptable,164.3,High,4,Strongly prefers Lviv,1
+SYN0521,172.7,Computer Science,Budget preferred,88.8,High,3,No strong preference,1
+SYN0522,176.2,Computer Science,Budget only,123.1,High,4,Strongly prefers Lviv,1
+SYN0523,135.7,Economics,Budget preferred,53.9,Low,3,Strongly prefers Lviv,0
+SYN0524,123.7,Economics,Budget preferred,114.3,High,5,Strongly prefers Lviv,0
+SYN0525,120.3,Computer Science,Contract acceptable,233.8,High,4,No strong preference,0
+SYN0526,192.8,Law,Contract acceptable,203.8,Low,4,No strong preference,1
+SYN0527,190.6,Philology,Budget preferred,244.9,High,2,Prefers Lviv,1
+SYN0528,147.4,Psychology,Budget preferred,201.2,Low,4,No strong preference,0
+SYN0529,179.9,Psychology,Contract acceptable,137.0,Medium,5,No strong preference,1
+SYN0530,136.8,Psychology,Contract acceptable,86.3,High,2,No strong preference,0
+SYN0531,196.7,Biology,Contract acceptable,28.9,Medium,5,Prefers Lviv,1
+SYN0532,195.4,Philology,Contract acceptable,187.0,High,3,Prefers Lviv,1
+SYN0533,161.8,Computer Science,Budget preferred,36.3,High,1,Strongly prefers Lviv,1
+SYN0534,182.8,Psychology,Contract acceptable,62.6,Low,3,Strongly prefers Lviv,1
+SYN0535,122.6,Mathematics,Budget only,154.0,High,5,Strongly prefers Lviv,0
+SYN0536,164.9,International Relations,Contract acceptable,196.1,High,3,No strong preference,0
+SYN0537,194.1,Philology,Budget preferred,239.2,High,3,No strong preference,1
+SYN0538,179.5,International Relations,Contract acceptable,217.2,Medium,2,No strong preference,0
+SYN0539,171.8,International Relations,Contract acceptable,241.1,Medium,4,Strongly prefers Lviv,0
+SYN0540,126.0,Law,Contract acceptable,128.5,Medium,1,Prefers Lviv,0
+SYN0541,141.1,Law,Contract acceptable,211.5,Low,3,Prefers Lviv,0
+SYN0542,132.4,Law,Budget preferred,149.2,High,5,No strong preference,0
+SYN0543,183.2,Biology,Budget only,196.0,Medium,5,Strongly prefers Lviv,0
+SYN0544,161.6,Law,Budget preferred,135.8,Medium,1,Prefers Lviv,1
+SYN0545,137.1,Biology,Budget preferred,90.2,Low,5,No strong preference,0
+SYN0546,164.9,Computer Science,Budget only,167.2,Medium,2,No strong preference,0
+SYN0547,169.7,Computer Science,Contract acceptable,221.4,Medium,1,Prefers Lviv,1
+SYN0548,177.9,Computer Science,Contract acceptable,205.5,Medium,5,No strong preference,1
+SYN0549,123.5,International Relations,Budget preferred,128.5,Low,2,No strong preference,0
+SYN0550,170.2,International Relations,Contract acceptable,157.4,Low,4,Strongly prefers Lviv,1
+SYN0551,186.3,Philology,Contract acceptable,204.2,Low,2,Strongly prefers Lviv,1
+SYN0552,146.5,Economics,Budget only,13.6,Medium,5,Strongly prefers Lviv,1
+SYN0553,138.2,Psychology,Budget preferred,97.0,High,4,Prefers Lviv,1
+SYN0554,151.2,Economics,Contract acceptable,1.5,High,5,Strongly prefers Lviv,0
+SYN0555,166.8,Economics,Budget preferred,232.0,Low,3,No strong preference,1
+SYN0556,126.9,Mathematics,Budget preferred,98.8,High,1,Prefers Lviv,1
+SYN0557,137.6,Philology,Contract acceptable,73.7,High,2,Prefers Lviv,0
+SYN0558,193.1,Biology,Budget only,138.4,High,2,Strongly prefers Lviv,1
+SYN0559,165.8,Philology,Contract acceptable,136.9,Low,3,Strongly prefers Lviv,0
+SYN0560,192.3,Biology,Budget only,103.2,High,5,Strongly prefers Lviv,1
+SYN0561,137.7,Psychology,Budget only,28.7,High,5,Strongly prefers Lviv,0
+SYN0562,194.6,Mathematics,Contract acceptable,137.4,Medium,1,Prefers Lviv,1
+SYN0563,178.0,Mathematics,Budget preferred,89.3,High,2,Strongly prefers Lviv,1
+SYN0564,125.6,International Relations,Budget preferred,121.5,Medium,5,No strong preference,0
+SYN0565,166.7,Biology,Budget preferred,239.7,Low,1,Prefers Lviv,1
+SYN0566,137.7,Philology,Budget preferred,210.0,Low,3,Prefers Lviv,0
+SYN0567,148.7,Psychology,Budget preferred,137.9,Low,5,Strongly prefers Lviv,0
+SYN0568,188.7,Law,Contract acceptable,49.1,High,1,No strong preference,1
+SYN0569,121.5,Computer Science,Contract acceptable,144.7,High,2,Strongly prefers Lviv,0
+SYN0570,163.5,Mathematics,Contract acceptable,193.8,Medium,4,Strongly prefers Lviv,0
+SYN0571,167.2,Psychology,Budget only,116.2,High,1,Prefers Lviv,1
+SYN0572,120.8,International Relations,Contract acceptable,171.0,High,2,Prefers Lviv,0
+SYN0573,165.3,Law,Contract acceptable,183.0,Medium,1,Strongly prefers Lviv,0
+SYN0574,138.5,Psychology,Budget preferred,58.5,High,2,No strong preference,0
+SYN0575,148.9,Mathematics,Budget preferred,220.4,Low,3,Strongly prefers Lviv,0
+SYN0576,161.7,Psychology,Contract acceptable,65.8,High,5,Strongly prefers Lviv,1
+SYN0577,150.3,Economics,Contract acceptable,62.9,Low,5,Prefers Lviv,1
+SYN0578,189.4,Mathematics,Budget preferred,221.8,Low,5,Strongly prefers Lviv,1
+SYN0579,138.4,Psychology,Budget only,37.6,Low,3,No strong preference,0
+SYN0580,129.5,International Relations,Budget preferred,202.8,High,1,Prefers Lviv,0
+SYN0581,158.3,Law,Contract acceptable,208.3,Low,2,Strongly prefers Lviv,1
+SYN0582,167.4,Law,Contract acceptable,128.2,High,2,Strongly prefers Lviv,1
+SYN0583,193.8,Philology,Contract acceptable,242.3,High,1,No strong preference,0
+SYN0584,185.7,Economics,Budget only,112.3,Medium,4,Strongly prefers Lviv,1
+SYN0585,152.9,Law,Contract acceptable,205.1,Low,5,No strong preference,0
+SYN0586,133.4,Biology,Budget preferred,149.1,Low,2,Prefers Lviv,0
+SYN0587,128.7,International Relations,Contract acceptable,214.9,High,4,Strongly prefers Lviv,0
+SYN0588,134.2,Computer Science,Contract acceptable,125.8,Low,1,Prefers Lviv,0
+SYN0589,192.2,Computer Science,Contract acceptable,162.3,High,4,Prefers Lviv,0
+SYN0590,175.8,Philology,Budget only,234.6,Medium,4,Prefers Lviv,1
+SYN0591,179.3,Economics,Budget preferred,33.5,Medium,2,Strongly prefers Lviv,1
+SYN0592,190.1,Philology,Budget preferred,47.3,High,1,No strong preference,1
+SYN0593,161.6,Philology,Contract acceptable,51.4,Medium,4,Prefers Lviv,1
+SYN0594,154.1,Psychology,Budget preferred,213.7,Medium,5,Prefers Lviv,0
+SYN0595,199.3,Philology,Budget only,103.3,High,4,Strongly prefers Lviv,1
+SYN0596,164.4,Psychology,Budget preferred,144.4,High,4,No strong preference,1
+SYN0597,189.1,Economics,Contract acceptable,57.4,High,2,Strongly prefers Lviv,1
+SYN0598,152.0,Biology,Contract acceptable,153.5,High,1,Strongly prefers Lviv,1
+SYN0599,170.9,Economics,Budget only,117.9,High,4,Strongly prefers Lviv,1
+SYN0600,137.7,Economics,Contract acceptable,9.4,Medium,4,No strong preference,0
